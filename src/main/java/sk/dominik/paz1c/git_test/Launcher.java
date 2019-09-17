@@ -11,7 +11,7 @@ public class Launcher {
 		// create new turtle and add it to the "sandbox"
 		SmartTurtle franklin = new SmartTurtle();
 		sandbox.add(franklin);
-
+System.out.println("asda");
 		// create new object inspector
 		ObjectInspector oi = new ObjectInspector();
 		// ask the inspector to inspect "franklin" and "sandbox"
